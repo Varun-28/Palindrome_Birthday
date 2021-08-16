@@ -1,7 +1,7 @@
 body{
     background: url("img/bg-min.jpg");
-    background-size: cover;
     background-color: #28ABB9;
+    background-size: cover;
     font-family: 'Lobster', cursive;
 }
 .container{
